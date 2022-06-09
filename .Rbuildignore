@@ -1,2 +1,5 @@
 ^gMulti\.Rproj$
 ^\.Rproj\.user$
+^LICENSE\.md$
+^README\.Rmd$
+^CRAN-RELEASE$
